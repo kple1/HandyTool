@@ -1,0 +1,8 @@
+name: HandyTool
+version: '1.0.0'
+main: io.leeple.handytool.Main
+api-version: 1.19
+
+commands:
+  Weapon:
+    aliases: "칼"
